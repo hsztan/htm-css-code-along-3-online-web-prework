@@ -12,8 +12,9 @@ selector {
 
 p { /* selec all p */
 
-  font-size: 16px; /* 16px, ?pt, 100%, 1em->(~16px) */
+  font-size: 1em; /* 16px, ?pt, 100%, 1em->(~16px) */
   line-height: 1.5em;
+
 }
 
 figcaption {
