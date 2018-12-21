@@ -44,3 +44,11 @@ figcaption {
   background: aqua;
 
 }
+
+/* Decendant Selector  */
+#logo h1 { /* Selects <h1> if inside the id="logo" */
+  font-family: 'Clicker Script', cursive;
+}
+#logo h2 {
+  font-family: 'Clicker Script', cursive;
+}
