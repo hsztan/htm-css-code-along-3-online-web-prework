@@ -29,3 +29,10 @@ figcaption {
   color: #777;
   text-align: right;
 }
+
+/* Class Selectors  (applied to many elements) */
+
+.milk-text { /* This will select elements with a class attribute equal to milk-text */
+  font: bold 2.6em 'Elsie Swash Caps', cursive;
+  
+}
